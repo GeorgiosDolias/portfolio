@@ -6,10 +6,40 @@
     <description>Recent content in machine learning on George Dolias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Mar 2019 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 03 Oct 2021 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://georgiosdolias.github.io/portfolio/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>EDA, ML and Flask API creation with medical data</title>
+      <link>https://georgiosdolias.github.io/portfolio/post/project-18/</link>
+      <pubDate>Sun, 03 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://georgiosdolias.github.io/portfolio/post/project-18/</guid>
+      <description>Recent advancements in data science render scientists capable of sorting, managing and analyzing large amounts of data more effectively and efficiently. One of the sectors where these new technologies have been applied is the healthcare industry, which is increasingly becoming more data-reliant due to vast quantities of patient and medical data. As a result, medical practices and patient care are significantly improved.
+ In this notebook, we will implement various techniques regarding the Exploratory Data Analysis (EDA) of medical data from different datasets and then, train various machine learning models for the prediction of important medical factors.</description>
+    </item>
+    
+    <item>
+      <title>Statistical analysis with Meteorites data</title>
+      <link>https://georgiosdolias.github.io/portfolio/post/project-17/</link>
+      <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://georgiosdolias.github.io/portfolio/post/project-17/</guid>
+      <description>*In this dataset we will analyse a dataset about meteorites in order to make predictions about a future strike on our planet. More specifically, this dataset has been provided by NASA and contains recorded meteorite impacts on Earth. After exploring this dataset, we will predict the chance that, within 1000 years, a high-impact meteorite will strike Earth. Meteorite of high-impact is considered that of diameter greater than 1km.
+Dataset The dataset of this project has been provided by NASA.</description>
+    </item>
+    
+    <item>
+      <title>Exploratory Data Analysis and Machine Learning with medical data</title>
+      <link>https://georgiosdolias.github.io/portfolio/post/project-16/</link>
+      <pubDate>Thu, 07 May 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://georgiosdolias.github.io/portfolio/post/project-16/</guid>
+      <description>Recent advancements in data science render scientists capable of sorting, managing and analyzing large amounts of data more effectively and efficiently. One of the sectors where these new technologies have been applied is the healthcare industry, which is increasingly becoming more data-reliant due to vast quantities of patient and medical data. As a result, medical practices and patient care are significantly improved.
+ In this notebook, we will implement various techniques regarding the Exploratory Data Analysis (EDA) of medical data from different datasets and train various machine learning models for the prediction of important medical factors.</description>
+    </item>
     
     <item>
       <title>Anomaly detection</title>
